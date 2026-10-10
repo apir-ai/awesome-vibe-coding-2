@@ -279,6 +279,7 @@ Platforms where you describe an app in plain English and get a working, deployab
 - [Buzzy](https://www.buzzy.buzz) - Turn Figma designs into working apps with AI. Design-first approach to app building. **[Freemium]**
 - [Pico](https://picoapps.xyz) - Build micro-apps with a single prompt. Fast, simple, shareable web apps in seconds. **[Free]**
 - [Literally Anything](https://www.literallyanything.io) - Type anything → get a working web app. The simplest possible vibe coding interface. **[Freemium]**
+- [SPOE](https://spoe.ai) - Describe an app → get a full-stack Next.js + Fastify + Postgres project. A second model from a different family reviews every change, and every export is signed and runs with `docker compose up`, no SPOE dependency. **[Freemium]**
 ## AI Code Completion & Assistants
 
 Inline code suggestions, autocomplete, and chat-based coding assistants - the broadest category of AI coding tools.
